@@ -1,5 +1,8 @@
 h2. License 
+
 (c) Copyright 2015 Eli Bradley. Some Rights Reserved.
+
+
 Original License:
 (c) Copyright 2011 Simone Masiero. Some Rights Reserved. 
 
